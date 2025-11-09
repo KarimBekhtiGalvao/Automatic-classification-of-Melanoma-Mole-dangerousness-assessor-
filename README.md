@@ -103,8 +103,8 @@ Evaluation of the models shows the following:
 
 <img width="386" height="278" alt="image" src="https://github.com/user-attachments/assets/438dc7b5-5f26-463c-bba0-30c2bc71e477" />
 Example of result obtained
----
 
+---
 ## Conclusion
 
 - The **Neural Network** produced the best results for melanoma detection.  
@@ -112,3 +112,4 @@ Example of result obtained
 - Feature engineering is critical to achieving high accuracy in lesion classification.
 
 ---
+
